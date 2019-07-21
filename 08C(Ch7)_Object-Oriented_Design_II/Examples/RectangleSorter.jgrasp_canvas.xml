@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>RectangleSorter</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>40</X>
+      <Y>60</Y>
+      <W>1028</W>
+      <H>238</H>
+    </Bounds>
+    <PanelSize>
+      <Key>_X_ElementView0</Key>
+      <Order>4</Order>
+      <W>1034</W>
+      <H>279</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local Rectangle[]` rList</Expression>
+      <ViewerClass>_X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>1230</W>
+    <H>545</H>
+  </Size>
+  <ESize>
+    <W>1230</W>
+    <H>545</H>
+  </ESize>
+</Canvas>
